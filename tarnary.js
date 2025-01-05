@@ -14,3 +14,6 @@ if(isBoss == true){
 }
 price = issBoss ===true?0 : price + 100;
 console.log(price);
+
+
+
